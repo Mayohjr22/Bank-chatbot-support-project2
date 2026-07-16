@@ -1,0 +1,84 @@
+
+ 1. Introduction
+This document describes the non-functional requirements of the Bank Chatbot Support System. These requirements define the quality attributes, performance standards, security measures, and operational expectations needed to ensure the system is efficient, reliable, secure, and user-friendly.
+
+2. Non-Functional Requirements
+NFR-001: Performance
+
+Category: Performance  
+Priority: High  
+
+Requirement: 
+The chatbot system should respond to customer queries within 3 seconds under normal operating conditions to provide a fast and efficient user experience.
+
+NFR-002: Security
+
+Category: Security  
+Priority: High  
+
+Requirement: 
+The system must protect customer information by implementing authentication, authorization, and encryption mechanisms to prevent unauthorized access.
+
+NFR-003: Availability
+
+Category: Availability  
+Priority: High  
+
+Requirement:
+The chatbot should be available 24 hours a day, 7 days a week to allow customers to access banking support services at any time.
+
+ NFR-004: Usability
+
+Category: Usability  
+Priority: High  
+
+Requirement:
+The chatbot interface should be simple, clear, and easy to use so that customers can interact with the system without difficulty.
+
+NFR-005: Reliability
+
+Category: Reliability  
+Priority:High  
+
+Requirement: 
+The system should provide accurate responses and operate consistently with minimal failures during customer interactions.
+
+NFR-006: Scalability
+
+Category: Scalability  
+Priority: Medium  
+
+Requirement: 
+The chatbot system should support an increasing number of users and transactions without affecting system performance.
+
+NFR-007: Maintainability
+
+Category: Maintainability  
+Priority: Medium  
+
+Requirement: 
+The system should be easy to maintain, update, and modify by developers when new features or improvements are required.
+
+NFR-008: Compatibility
+
+Category: Compatibility  
+Priority: Medium  
+
+Requirement:
+The chatbot should work effectively across different devices, web browsers, and operating systems.
+
+NFR-009: Data Privacy
+
+Category: Data Privacy  
+Priority: High  
+
+Requirement:
+Customer information and chatbot conversation records must be stored securely and accessed only by authorized personnel.
+
+NFR-010: Backup and Recovery
+
+Category: Backup and Recovery  
+Priority: Medium  
+
+Requirement:  
+The system should perform regular backups and provide recovery mechanisms to restore data after system failures.
